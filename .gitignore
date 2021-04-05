@@ -1,0 +1,6 @@
+venv/
+.idea/
+admin/.dbdata
+main/.dbdata
+admin/products/__pycache__
+main/__pycache__
